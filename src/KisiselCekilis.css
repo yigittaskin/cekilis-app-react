@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+    background-color: #f7dc68;
+    color: red;
+}
+
+#cekilisButton {
+    background-color: red;
+}
+
+#cekilisButton:hover {
+    background-color: white;
+    color: red !important;
+}

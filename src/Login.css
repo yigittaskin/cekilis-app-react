@@ -1,0 +1,20 @@
+.login {
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.googleButton {
+    padding: 30px;
+    background-color: white;
+    border-radius: 12px;
+}
+
+.googleButton :hover {
+    opacity: .6 !important;
+}
+
+.googleButton i {
+    color: #DB4437;
+}

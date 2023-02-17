@@ -1,0 +1,22 @@
+body {
+    margin: 0;
+    background-color: #f7dc68;
+    color: red;
+}
+
+#cikisYap:hover {
+    background-color: white !important;
+    color: #031a3d !important;
+}
+
+#cekiliseKatil:hover {
+    background-color: white !important;
+    color: red !important;
+}
+
+#cekiliseKatil:disabled,
+#cekiliseKatil[disabled] {
+    background-color: #cccccc !important;
+    color: #666666 !important;
+    cursor: no-drop;
+}
